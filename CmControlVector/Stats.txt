@@ -1,0 +1,86 @@
+--------------------------------------------------
+==== Entry Count ====
+Total entries: 563
+
+--------------------------------------------------
+==== Optional Field Usage ====
+Entries with sizeOptional : 23
+
+Entries with typeOptional : 6
+
+Entries with flagsOptional != 0 : 36
+
+--------------------------------------------------
+==== Entries With Default Values ====
+Entries with default values: 272
+
+--------------------------------------------------
+==== Function Prefix Ownership ====
+Prefix usage counts (alphabetical):
+
+  Alpc       1
+  Alpcp      9
+  Bgk        1
+  Car        24
+  Cc         49
+  Cm         25
+  Cmp        65
+  Dbgk       1
+  Dbgkp      2
+  Dif        1012
+  Difp       2
+  Etw        2
+  Etwp       18
+  Ex         34
+  Exp        67
+  Fs         2
+  Get        3
+  Hal        4
+  Halp       1
+  Hv         2
+  Hvl        1
+  Hvlp       3
+  Hvp        1
+  Init       16
+  Int        1
+  Io         31
+  Iop        34
+  Iov        7
+  Iovp       5
+  Kd         6
+  Kdp        41
+  Ke         83
+  Kev        1
+  Ki         220
+  Kx         1
+  Mi         102
+  Mm         42
+  Nt         23
+  Ob         12
+  Obp        12
+  Pdc        3
+  Phase1Initialization 8
+  Pip        2
+  Pnp        2
+  Po         27
+  Pop        188
+  Ppm        62
+  Ps         12
+  Psp        36
+  Rtl        2
+  Rtlp       7
+  S          1
+  Se         15
+  Sep        36
+  Sleepstudy 3
+  Sm         1
+  Swap       1
+  Ttm        1
+  Ttmi       2
+  Ttmp       1
+  Verifier   77
+  Vf         115
+  Vi         61
+  Vmp        1
+  Vslp       1
+  v          1
